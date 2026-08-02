@@ -4,3 +4,5 @@ Primeiro repositório remoto do GitHub
 Acabei de fazer a minha primeira alteração para o repositorio remoto
 
 Nova alteração no Readme.MD
+
+Frase adcionada diretamenta do GitHub
